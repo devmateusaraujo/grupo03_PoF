@@ -1,5 +1,5 @@
 # grupo03_PoF
-##IDEAÇÃO/PROPOSTAS INICIAIS DO PROJETO
+## IDEAÇÃO/PROPOSTAS INICIAIS DO PROJETO
 
 Integrantes: 
 - João Victor
