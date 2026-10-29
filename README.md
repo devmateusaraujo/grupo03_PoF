@@ -12,7 +12,7 @@
 - A invisibilidade dos moradores de comunidades do Recife para a solução de seus problemas.
 
 #### O Público?
-- Moradores de comunidades periféricas do Recife.
+- Moradores das comunidades periféricas do Recife.
 
-#### A Solução?
+#### A solução?
 - Uma aplicação web e mobile (principalmente mobile) que tem como principal objetivo ser um canal de denúncias e comunicação entre os moradores e líderes comunitários (ou associações de moradores), para que as denúncias realmente sejam ouvidas pelas autoridades competentes.
